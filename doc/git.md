@@ -10,6 +10,7 @@
 2. 安装git
 
    2.1 Linux 
+   
        Redhat，CentOS，Fedora
            yum update
            yum install git
