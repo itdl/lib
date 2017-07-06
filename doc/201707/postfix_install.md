@@ -5,10 +5,12 @@
 
 1. install postfix
 
+
 `yum install postfix`
 
 
 2. config postfix
+
 
 `vi /etc/postfix/main.cf
 
@@ -34,10 +36,12 @@ home_mailbox = Maildir/　 ← 指定用户邮箱目录
 
 3. restart postfix 
 
+
 `service postfix start/stop/restart`
 
 
 4. send test mail
+
 
 `echo "Mail Content" | mail -s "Mail Subject" root@fyre.ibm.com`
 
@@ -45,6 +49,7 @@ mail account is the system user,  plz send to a real account,  root/fyre.
 
 
 5. configure mail client and check the mail.
+
 by default, MAIL=/var/spool/mail/root.
 Actually, the mail is in /root/Maildir
 
