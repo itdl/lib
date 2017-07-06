@@ -4,11 +4,11 @@
 
 1. install postfix
 
-·yum install postfix·
+`yum install postfix`
 
 2. config postfix
 
-·vi /etc/postfix/main.cf
+`vi /etc/postfix/main.cf
 
 
 myhostname = cur1.fyre.ibm.com　 ← 设置系统的主机名
@@ -27,15 +27,15 @@ mydestination = $myhostname, localhost.$mydomain, localhost, $mydomain　 ← �
 
 
 home_mailbox = Maildir/　 ← 指定用户邮箱目录
-·
+`
 
 3. restart postfix 
 
-·service postfix start/stop/restart·
+`service postfix start/stop/restart`
 
 4. send test mail
 
-·echo "Mail Content" | mail -s "Mail Subject" root@fyre.ibm.com　·
+`echo "Mail Content" | mail -s "Mail Subject" root@fyre.ibm.com`
 
 mail account is the system user,  plz send to a real account,  root/fyre.
 
