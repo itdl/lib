@@ -15,10 +15,10 @@
 `vi /etc/postfix/main.cf
 
 
-myhostname = cur1.fyre.ibm.com　 ← 设置系统的主机名
+myhostname = cur1.xx.com　 ← 设置系统的主机名
 
 
-mydomain = fyre.ibm.com　 ← 设置域名（我们将让此处设置将成为E-mail地址“@”后面的部分）
+mydomain = xx.com　 ← 设置域名（我们将让此处设置将成为E-mail地址“@”后面的部分）
 
 
 myorigin = $mydomain　 ← 将发信地址“@”后面的部分设置为域名（非系统主机名）
@@ -43,7 +43,7 @@ home_mailbox = Maildir/　 ← 指定用户邮箱目录
 4. send test mail
 
 
-`echo "Mail Content" | mail -s "Mail Subject" root@fyre.ibm.com`
+`echo "Mail Content" | mail -s "Mail Subject" root@xx.com`
 
 mail account is the system user,  plz send to a real account,  root/fyre.
 
