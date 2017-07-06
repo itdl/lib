@@ -7,7 +7,7 @@
 积累的越多，对大家价值就越大，希望我们一起丰富这个资料库。
 
 
-1. [大连开发者社区微信群](https://github.com/itdl/lib/blob/master/doc/201707/wechat_intro.md)
+1. [大连开发者社区微信群](https://github.com/itdl/lib/blob/master/doc/wechat_intro.md)
 
 2. [git使用介绍](https://github.com/itdl/lib/blob/master/doc/git.md)
 
