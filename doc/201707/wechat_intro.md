@@ -18,7 +18,7 @@
 
 
 ### 微信群二维码：
-
+![技术问答-大连开发者社区二维码](https://github.com/itdl/lib/blob/master/images/wechat_qa.jpg)
 
 
 
