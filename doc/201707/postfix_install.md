@@ -2,9 +2,11 @@
 
 安装postfix，能够在本机发送和接收邮件
 
+
 1. install postfix
 
 `yum install postfix`
+
 
 2. config postfix
 
@@ -29,9 +31,11 @@ mydestination = $myhostname, localhost.$mydomain, localhost, $mydomain　 ← �
 home_mailbox = Maildir/　 ← 指定用户邮箱目录
 `
 
+
 3. restart postfix 
 
 `service postfix start/stop/restart`
+
 
 4. send test mail
 
