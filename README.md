@@ -17,3 +17,5 @@
 
 5. [电子书地址](https://github.com/itdl/lib/blob/master/doc/ebook.md)
 
+6. [内推职位信息](https://github.com/itdl/lib/blob/master/doc/jobs.md)
+
