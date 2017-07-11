@@ -39,7 +39,7 @@ id_rsa.pub就是公钥。
 git clone git@github.com:itdl/lib.git
 在你的本地，就多了一个lib文件夹，包含了资料库所有内容。
 
-任何人有github账号，配置好git后，都可以Clone. 但是只有授权用户才可以更改和上传。4. 
+任何人有github账号，配置好git后，都可以Clone. 但是只有授权用户才可以更改和上传。
 
 
 
