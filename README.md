@@ -20,3 +20,5 @@
 6. [内推职位信息](https://github.com/itdl/lib/blob/master/doc/jobs.md)
 
 7. [卓越工程师培养计划 ](https://github.com/itdl/lib/blob/master/doc/free_class.md)         ---**免费软件职业技术培训+项目实战** 
+
+8. 

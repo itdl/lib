@@ -121,4 +121,6 @@
 
 15542316936   马老师
 
+或加[微信群](https://github.com/itdl/lib/blob/master/doc/wechat_intro.md)
+
 ***
