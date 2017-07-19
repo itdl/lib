@@ -22,7 +22,7 @@
 
 ***
 
-还有更多的编程规范，Google都有定义(C, Shell, Python, R,JS, HTML, VIM, AngularJS，etc)，参考https://github.com/google/styleguide。
+还有更多的编程规范，Google都有定义(C, Shell, Python, R,JS, HTML, VIM, AngularJS，etc)，参考https://github.com/google/styleguide
 
 ***
 
