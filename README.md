@@ -21,6 +21,6 @@
 
 7. [卓越工程师培养计划 ](https://github.com/itdl/lib/blob/master/doc/free_class.md)         ---**免费软件职业技术培训+项目实战** 
 
-8. [编程语言开发规范](https://github.com/itdl/lib/blob/master/doc/style_guide.md)参考 
+8. [开发语言编程规范](https://github.com/itdl/lib/blob/master/doc/style_guide.md)参考 
 
 9. 
