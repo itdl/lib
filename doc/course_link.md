@@ -4,7 +4,7 @@
 
 1. [Coursera](https://www.coursera.org/)  免费在线公开课，美国各大学提供
 
-2. [codecademy](https://www.codecademy.com/) 免费和收费课程都有
+2. [codecademy](https://www.codecademy.com/) 免费和收费课程都有，评价非常好的学习网站
 
 3. [CognitiveClass](https://cognitiveclass.ai/) 免费课程，主要是大数据，科学计算及认知计算课程
 
