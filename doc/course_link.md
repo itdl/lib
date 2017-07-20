@@ -18,7 +18,9 @@
 
 8. [MIT Open Courseware](https://ocw.mit.edu/index.htm) 免费课程， 理论课程
 
+9. [Linux Academy](https://linuxacademy.com/)  收费课程，主要面向运维，Linux，云，Devops学习及上机操作环境
 
+10.[**safaribooksonline**](https://www.safaribooksonline.com/)   非常棒的电子书和视频学习网站，**全是最新版的**。可惜收费，包年400刀/年。
 
 
 
