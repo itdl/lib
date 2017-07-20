@@ -23,4 +23,6 @@
 
 8. [开发语言编程规范](https://github.com/itdl/lib/blob/master/doc/style_guide.md)参考 
 
-9. 
+9. [课程网站](https://github.com/itdl/lib/blob/master/doc/course_link.md)
+
+10.
