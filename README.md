@@ -25,4 +25,6 @@
 
 9. [课程网站](https://github.com/itdl/lib/blob/master/doc/course_link.md)
 
-10.
+10.[周三茶室](https://github.com/itdl/lib/blob/master/doc/Wed_tea.md)    ---每周三线上闲聊
+
+11. 
