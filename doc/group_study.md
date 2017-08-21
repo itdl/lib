@@ -27,6 +27,8 @@
 
 社区会给予发起人帮助，使得学习小组活动能顺利进行。
 
+任何问题请加加[微信群](https://github.com/itdl/lib/blob/master/doc/wechat_intro.md)咨询。
+
 ***
 
 学习小组列表：
