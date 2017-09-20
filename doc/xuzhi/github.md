@@ -28,9 +28,9 @@
 
 **学习资料：**
 
-1. [官方站点，注册帐号登录，控制台管理]http://github.com
+1. [官方站点，注册帐号登录，控制台管理](http://github.com)
 
-2. [客户端软件下载]https://git-scm.com/
+2. [客户端软件下载](https://git-scm.com/)
 
 3. [廖雪峰的GIT教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
