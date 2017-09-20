@@ -41,6 +41,9 @@
 
 [Spring Boot实战 学习小组](https://github.com/itdl/lib/blob/master/doc/xuzhi/spring_boot.md)
 
+[Spring Cloud实战 学习小组](https://github.com/itdl/lib/blob/master/doc/xuzhi/spring_cloud.md)
+
+[github协作开发 学习小组](https://github.com/itdl/lib/blob/master/doc/xuzhi/github.md)
 
 
 
