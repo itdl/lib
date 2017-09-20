@@ -35,6 +35,8 @@
 
 [MongoDB 学习小组](https://github.com/itdl/lib/blob/master/doc/xuzhi/mongo.md)
 
+[Linux基础 学习小组](https://github.com/itdl/lib/blob/master/doc/xuzhi/linux_basic_brief.md)
+
 [分布式应用及物联网消息通讯架构 学习小组](https://github.com/itdl/lib/blob/master/doc/xuzhi/msg_arch.md)
 
 [Ruby On Rails快速建站 学习小组](https://github.com/itdl/lib/blob/master/doc/xuzhi/ror.md)
