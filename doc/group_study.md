@@ -35,6 +35,8 @@
 
 [MongoDB学习小组](https://github.com/itdl/lib/blob/master/doc/xuzhi/mongo.md)
 
+[分布式应用及物联网消息通讯架构学习小组](https://github.com/itdl/lib/blob/master/doc/xuzhi/msg_arch.md)
+
 
 
 
