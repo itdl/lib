@@ -128,7 +128,15 @@ SPD高级工程师
 
 ---
 
-7. 
+7. 德信汇智招聘软件开发工程师(济南或深圳)和量化分析实习生(深圳)， 联系邮箱：plutoshen@dexinwit.com
+
+职位信息请参考：
+
+[软件开发工程师](https://github.com/itdl/lib/blob/master/doc/201709/dexin_software.doc)
+   
+[量化分析实习生](https://github.com/itdl/lib/blob/master/images/201709/dexin_student.jpg)
+
+---
 
 
 
