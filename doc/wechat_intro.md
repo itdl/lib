@@ -11,7 +11,10 @@
 
 
 ### 微信群二维码：
-![技术问答-大连开发者社区二维码](https://github.com/itdl/lib/blob/master/images/wechat_qa.jpg)
+
+因为群人数超过100人，不能使用二维码加人了，请添加管理员微信，让管理员拉进群
+
+![技术问答-大连开发者社区管理员二维码](https://github.com/itdl/lib/blob/master/images/wechat_qa.jpg)
 
 
 
