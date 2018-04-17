@@ -22,7 +22,7 @@
 
 10. [**safaribooksonline**](https://www.safaribooksonline.com/)   非常棒的电子书和视频学习网站，**全是最新版的**。可惜收费，包年400刀/年。
 
-11. [吴恩达人工智能课程](https://www.coursera.org/learn/machine-learning)  吴恩达免费人工智能在线课程
+11. [吴恩达人工智能课程](https://www.coursera.org/learn/machine-learning)  吴恩达人工智能在线课程, 全面, 易懂 
 
 
 
