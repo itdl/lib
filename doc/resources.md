@@ -8,3 +8,5 @@
 3. [课程网站](https://github.com/itdl/lib/blob/master/doc/course_link.md)
 
 4. [开发者社区开源项目列表](https://github.com/itdl)     ------    [常见问题](https://github.com/itdl/lib/blob/master/doc/opensource_qa.md)
+
+5. [免费测试主机](https://github.com/itdl/lib/blob/master/doc/free_host.md)
