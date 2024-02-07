@@ -1,0 +1,54 @@
+How to connect to Wedev network and setup Internet gateway
+
+3 steps basically, 1. Install client software 2. Register to wedev virtul network  3. Change the default gateway to wedev Egress gateway.
+
+
+For linux:
+1.  Download and install netclient with command,
+`sudo wget -O netclient https://fileserver.netmaker.io/releases/download/v0.21.2/netclient-linux-amd64 && chmod +x ./netclient && sudo ./netclient install`
+2.  Connect to wedev virtual network(Netmaker CE) with command,
+`sudo netclient join -t eyJzZXJ2ZXIiOiJhcGkubm0ud2VkZXYud29yayIsInZhbHVlIjoiM0laNjJDR0FJU1NCQTNFN1hLSkRUTDRUNEpVMkZHRFUifQ==`
+
+
+For Windows:
+1.  Download and install netclient software,
+https://fileserver.netmaker.io/releases/download/v0.21.2/netclient_x86.msi
+2.  Steps to join wedev network:
+
+    Open Netclient GUI
+    Select "Add New Network"
+    Click Join via Enrollemnt Key
+    Enter eyJzZXJ2ZXIiOiJhcGkubm0ud2VkZXYud29yayIsInZhbHVlIjoiM0laNjJDR0FJU1NCQTNFN1hLSkRUTDRUNEpVMkZHRFUifQ==   as enrollment key
+    Click Submit and Get connected :)
+
+For Mac:
+1. Download netclient software,
+https://fileserver.netmaker.io/releases/download/v0.21.2/Netclient-Intel.pkg
+2. Steps to join wedev network:
+
+    Open Netclient GUI
+    Select "Add New Network"
+    Click Join via Enrollemnt Key
+    Enter eyJzZXJ2ZXIiOiJhcGkubm0ud2VkZXYud29yayIsInZhbHVlIjoiM0laNjJDR0FJU1NCQTNFN1hLSkRUTDRUNEpVMkZHRFUifQ==   as enrollment key
+    Click Submit and Get connected :)
+
+
+
+How to change default gateway:
+
+For Linux,
+Note: It could not add a new default gateway on Linux, it will need to delete the old one and add new one.  Please backup the old gateway information for restore.
+ip route delete default via <old gateway ip> dev <interface>
+ip route add default via 10.10.0.1 dev netmaker
+
+Restore:
+ip route delete default via 10.10.0.1 dev netmaker
+ip route add default via <old gateway ip> dev <interface>
+
+
+For Windows,
+
+netsh int ipv4 add route 0.0.0.0/0 interface=netmaker nexthop=10.10.0.1 store=active metric=1
+
+Restore:
+netsh int ipv4 delete route 0.0.0.0/0 interface=netmaker nexthop=10.10.0.1 store=active
